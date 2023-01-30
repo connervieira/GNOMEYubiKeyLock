@@ -1,4 +1,4 @@
-# GNOME YubiKey AUto Lock
+# GNOME YubiKey Auto Lock
 
 A short script to automatically lock GNOME when a YubiKey is removed.
 
